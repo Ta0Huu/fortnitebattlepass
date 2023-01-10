@@ -1,6 +1,10 @@
 #include<iostream>
 using namespace std;
 
+int gcd(int g = 0, int a = 0){
+    
+}
+
 int main(){
     int x, y;
     cin >> x >> y;
